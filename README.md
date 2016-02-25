@@ -1,2 +1,2 @@
 # angularProject
-AngularJS practice project
+AngularJS practice project (TV show list)
